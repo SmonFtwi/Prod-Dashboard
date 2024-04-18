@@ -56,8 +56,9 @@ export function GetArrayFromJson(jsonvalue) {
 export const BASEWEBURL1 = 'https://frcadmin.sjain.io'
 export const BASEWEBURL2 = 'http://localhost:3000'
 export const BASEWEBURL3 = 'https://reactjs.indiahelppoint.in/'
+export const BASEWEBURL4 = 'https://frc-activities-app1.vercel.app/'
 
-export const BASEWEBURL = BASEWEBURL3
+export const BASEWEBURL = BASEWEBURL4
 
 export const UPLOADSsURL = 'https://frcadmin.sjain.io/uploads/'
 export const DoUploadURL = 'https://frcadmin.sjain.io/uploads/index.php'
